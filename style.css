@@ -30,6 +30,10 @@ header ul {
     clear: both;
 }
 
+.bibitem-journal, .bibitem-inproceedings {
+    font-style: italic;
+}
+
 .bibbtn {
     float: right;
     margin: 0;
