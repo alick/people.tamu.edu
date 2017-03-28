@@ -30,6 +30,10 @@ header ul {
     clear: both;
 }
 
+.bibitem-author-emph {
+    text-decoration: underline;
+}
+
 .bibitem-journal, .bibitem-inproceedings {
     font-style: italic;
 }
