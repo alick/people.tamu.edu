@@ -34,7 +34,7 @@ header ul {
     text-decoration: underline;
 }
 
-.bibitem-journal, .bibitem-inproceedings {
+.bibitem-journal, .bibitem-inproceedings, .bibitem-inbook {
     font-style: italic;
 }
 
