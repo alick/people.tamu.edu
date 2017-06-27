@@ -38,6 +38,11 @@ header ul {
     font-style: italic;
 }
 
+.bibitem-award {
+    color: red;
+    hyphens: none;
+}
+
 .bibbtn {
     float: right;
     margin: 0;
