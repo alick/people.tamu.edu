@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $('.bibbtn').on('click', function(){
-        $(this).next().toggle();
+        $(this).parent().next().toggleClass('noshow');
     });
     $('.bib').filter(function(){
         if (true === /journal\s+=\s+IEEE_/.test($(this).text())) {
